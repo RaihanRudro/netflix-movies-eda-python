@@ -1,6 +1,8 @@
 # Data
 
-This folder is for the dataset used in the project.
+The dataset used in this project is `netflix_data.csv`, provided by DataCamp as part of the "Investigating Netflix Movies" project.
 
-The dataset is provided inside the DataCamp project environment. 
-If sharing the dataset is restricted, this repository will only include a description of the dataset instead of the raw CSV file.
+The raw dataset is not included in this repository because redistribution may be restricted by DataCamp's dataset licensing or project sharing policy.
+
+This repository includes the analysis code, project explanation, and visual outputs for portfolio and learning purposes.
+`
