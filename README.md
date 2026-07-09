@@ -29,7 +29,13 @@ This project is part of my data science learning journey after completing Introd
 - There were 7 short action movies released in the 1990s with a duration under 90 minutes.
 - Filtering and visualization helped narrow the dataset from all Netflix titles to a specific decade, content type, and genre.
 
-  ## What I Learned
+  ## Visualization
+
+The histogram below shows the distribution of Netflix movie durations for movies released in the 1990s.
+
+images/duration_distribution_1990s.png
+
+## What I Learned
 
 Through this project, I practiced the basic data analysis workflow using Python.
 
