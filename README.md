@@ -43,6 +43,32 @@ Key skills I improved:
 - Creating histograms with matplotlib
 - Using conditional filtering to answer project questions
 - Communicating findings clearly in a GitHub README
+
+  ## Project Structure
+
+```text
+netflix-movies-eda-python/
+│
+├── data/
+│   └── README.md
+│
+├── images/
+│   └── README.md
+│
+├── notebooks/
+│   ├── README.md
+│   └── netflix_movies_analysis.ipynb
+│
+└── README.md
+
+## Folder Description:
+data/: Contains information about the dataset. The raw dataset is not included because redistribution may be restricted.
+images/: Reserved for charts and visualizations created during the analysis.
+notebooks/: Contains the completed Jupyter Notebook for the project.
+README.md: Provides the project overview, objectives, tools, findings, and learning outcomes.
+```
+
+
 ## Current Status
 
 Project analysis is in progress.
