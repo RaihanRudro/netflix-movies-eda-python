@@ -41,9 +41,8 @@ Completed so far:
 - Identified the approximate most frequent movie duration
 - Counted short action movies released in the 1990s
 
-Next steps:
 
-Next steps:
+## Next steps:
 
 - Submit the completed project on DataCamp
 - Export and upload the final notebook
