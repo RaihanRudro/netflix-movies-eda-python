@@ -5,6 +5,12 @@
 This project analyzes Netflix movie data using Python. The main focus is to investigate movie duration patterns, especially for movies released during the 1990s.
 
 This project was completed as part of my data science learning journey after learning Python fundamentals, pandas basics, and data visualization with matplotlib.
+
+## Project Summary
+
+This project is an exploratory data analysis of Netflix movie data using Python, pandas, and matplotlib. The analysis focuses on Netflix movies released in the 1990s, exploring movie duration patterns, identifying an approximate most frequent movie duration, and counting short action movies with durations under 90 minutes.
+
+The project demonstrates beginner-level data analysis skills, including data loading, data inspection, row filtering, column selection, conditional filtering, data visualization, and communicating insights through a GitHub portfolio project.
 ## Objectives
 
 - Load and inspect Netflix movie data
