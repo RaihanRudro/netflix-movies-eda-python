@@ -60,6 +60,7 @@ netflix-movies-eda-python/
 │   └── netflix_movies_analysis.ipynb
 │
 └── README.md
+```
 
 ## Folder Description:
 data/: Contains information about the dataset. The raw dataset is not included because redistribution may be restricted.
