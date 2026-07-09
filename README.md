@@ -40,11 +40,11 @@ Completed so far:
 - Created a histogram to visualize movie durations in the 1990s
 - Identified the approximate most frequent movie duration
 - Counted short action movies released in the 1990s
+- Submitted the completed project on Datacamp
+- Uploaded the completed analysis notebook to the `notebooks` folder
 
 
 ## Next steps:
 
-- Submit the completed project on DataCamp
-- Export and upload the final notebook
 - Add final insights and visualizations
 - Polish the GitHub README
