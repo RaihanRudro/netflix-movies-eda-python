@@ -86,9 +86,8 @@ Completed tasks:
 - Added key findings and learning outcomes
 - Documented the project structure
 - Documented dataset sharing restrictions
+- Added the duration distribution visualization to the `images` folder
 
 Final polish remaining:
-
-- Add visualization image to the `images` folder
 - Add final README polish before sharing publicly
 
