@@ -34,6 +34,7 @@ This project is part of my data science learning journey after completing Introd
 The histogram below shows the distribution of Netflix movie durations for movies released in the 1990s.
 
 images/duration_distribution_1990s.png
+``
 
 ## What I Learned
 
