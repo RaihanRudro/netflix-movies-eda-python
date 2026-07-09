@@ -47,3 +47,4 @@ Next steps:
 - Export and upload the final notebook
 - Add final insights and visualizations
 - Created a histogram to visualize movie durations in the 1990s
+- Counted short action movies released in the 1990s
