@@ -28,6 +28,21 @@ This project is part of my data science learning journey after completing Introd
 - Based on the histogram, the approximate most frequent movie duration in the 1990s was around 100 minutes.
 - There were 7 short action movies released in the 1990s with a duration under 90 minutes.
 - Filtering and visualization helped narrow the dataset from all Netflix titles to a specific decade, content type, and genre.
+
+  ## What I Learned
+
+Through this project, I practiced the basic data analysis workflow using Python.
+
+Key skills I improved:
+
+- Loading CSV data using pandas
+- Inspecting a dataset with `head()` and `info()`
+- Filtering rows based on conditions
+- Selecting specific columns for analysis
+- Filtering data by year range
+- Creating histograms with matplotlib
+- Using conditional filtering to answer project questions
+- Communicating findings clearly in a GitHub README
 ## Current Status
 
 Project analysis is in progress.
