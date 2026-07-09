@@ -44,7 +44,7 @@ Key skills I improved:
 - Using conditional filtering to answer project questions
 - Communicating findings clearly in a GitHub README
 
-  ## Project Structure
+## Project Structure
 
 ```text
 netflix-movies-eda-python/
@@ -62,13 +62,12 @@ netflix-movies-eda-python/
 └── README.md
 ```
 
-## Folder Description:
-data/: Contains information about the dataset. The raw dataset is not included because redistribution may be restricted.
-images/: Reserved for charts and visualizations created during the analysis.
-notebooks/: Contains the completed Jupyter Notebook for the project.
-README.md: Provides the project overview, objectives, tools, findings, and learning outcomes.
-```
+### Folder Description
 
+- `data/`: Contains information about the dataset. The raw dataset is not included because redistribution may be restricted.
+- `images/`: Reserved for charts and visualizations created during the analysis.
+- `notebooks/`: Contains the completed Jupyter Notebook for the project.
+- `README.md`: Provides the project overview, objectives, tools, findings, and learning outcomes.
 
 ## Current Status
 
