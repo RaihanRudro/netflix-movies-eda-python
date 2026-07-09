@@ -22,7 +22,12 @@ This project is part of my data science learning journey after completing Introd
 - matplotlib
 - Jupyter Notebook
 - GitHub
+## Key Findings
 
+- Most Netflix movies released in the 1990s had durations around the 90 to 120 minute range.
+- Based on the histogram, the approximate most frequent movie duration in the 1990s was around 100 minutes.
+- There were 7 short action movies released in the 1990s with a duration under 90 minutes.
+- Filtering and visualization helped narrow the dataset from all Netflix titles to a specific decade, content type, and genre.
 ## Current Status
 
 Project analysis is in progress.
